@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keshavnalwa
 - 👀 I’m interested in electronics and coding
-- 🌱 I’m currently learning ECE
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently pursuing B.Tech in ECE
+- 💞️ I’m looking to collaborate on projects of WebD 
 - 📫 How to reach me ... Keshav Nalwa(LinkedIn)
 
 <!---
